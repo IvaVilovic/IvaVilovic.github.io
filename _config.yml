@@ -1,7 +1,7 @@
 # site settings
-title: Massively
+title: Iva Vilović
 subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
+email: iva.vilovic@campus.tu-berlin.de
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
 baseurl: "/massively-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
@@ -17,7 +17,6 @@ phone: (716) 555-5555
 500px_url:
 facebook_url:
 github_url: https://github.com/andrewbanchich
-gitlab_url: https://gitlab.com/u/andrewbanchich
 googleplus_url:
 instagram_url:
 linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
