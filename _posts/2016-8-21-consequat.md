@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Consequat
+title: Habitability during the Phanerozoic Eon
 description: Using the Earth’s Phanerozoic biosphere as a model for how planetary environments affect habitability
-image: assets/images/pic05.jpg
+image: assets/images/Photo 101212980  Croatia Milky Way © Boris Stromar  Dreamstime Plitvice.jpg
 ---
 
 When we talk about life outside our planet, it's crucial to understand how life has evolved on Earth over time. Not because we expect potential extraterrestrial life to be just like us, but because we need a benchmark for comparison. Earth is our only known planet where life not only emerged but also spread and really thrived. Our planet has an incredibly intricate mix of different life forms and ecosystems, and each one has left its own mark in our atmosphere and on the surface.
